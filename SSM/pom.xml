@@ -24,7 +24,6 @@
   </properties>
   <dependencies>
 
-    <!-- spring 解析切入点表达式 -->
     <dependency>
       <groupId>org.aspectj</groupId>
       <artifactId>aspectjweaver</artifactId>
